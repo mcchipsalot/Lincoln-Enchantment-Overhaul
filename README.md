@@ -1,0 +1,1 @@
+Makes most enchantments have higher level caps, blacklists some enchantments from villagers, adds more enchantments to the enchanting table list, and adds two (currently unobtainable) enchantments that knock people upwards for melee and ranged.
