@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#minecraft:non_treasure",
+    "minecraft:frost_walker",
+    "minecraft:mending",
+    "minecraft:fortune",
+    "minecraft:silk_touch",
+    "minecraft:looting",
+    "minecraft:loyalty",
+    "minecraft:infinity",
+    "minecraft:binding_curse",
+    "minecraft:vanishing_curse"
+  ],
+  "replace": true
+}
